@@ -71,12 +71,13 @@ export default {
   mounted(){
     // utils.insertBody(this.$refs.vstooltip)
   },
-  updated() {
-    let nodes = this.$refs.convstooltip.childNodes.length
-    if (nodes === 1) {
-      this.activeTooltip = false
-    }
-  },
+  // try to fix https://github.com/lusaxweb/vuesax/issues/490
+  // updated() {
+  //   let nodes = this.$refs.convstooltip.childNodes.length
+  //   if (nodes === 1) {
+  //     this.activeTooltip = false
+  //   }
+  // },
   methods:{
     mouseenterx(){
       if(this.active) {
