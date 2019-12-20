@@ -1,13 +1,13 @@
 {
-  "name": "vuesax",
+  "name": "@liudonghua123/vuesax",
   "version": "3.11.2",
   "description": "Framework Components for Vue js",
   "license": "MIT",
-  "author": "ldrovira <luisdanielrovira8@gmail.com>",
-  "homepage": "https://lusaxweb.github.io/vuesax/#/",
-  "repository": "lusaxweb/vuesax",
+  "author": "liudonghua123 <liudonghua123@gmail.com>",
+  "homepage": "https://liudonghua123.github.io/vuesax/",
+  "repository": "liudonghua123/vuesax",
   "bugs": {
-    "url": "https://github.com/lusaxweb/vuesax/issues"
+    "url": "https://github.com/liudonghua123/vuesax/issues"
   },
   "keywords": [
     "vuesax",
